@@ -21,7 +21,9 @@ Product Type: Jackets, sweaters, shoes, t-shirts, or jeans
 Section: Men or women
 
 Others:
+
 Product Position: Aisle, end-cap, or front of store
+
 Seasonal and Promotion: Whether the product is part of a seasonal collection (seasonal or non-seasonal) and/or currently on promotion (promotional or non-promotional)
 
 ## Summary of Insights 
