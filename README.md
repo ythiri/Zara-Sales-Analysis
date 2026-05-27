@@ -21,7 +21,7 @@ View the interactive Tableau dashboard here:
 - Section: Men’s or women’s  
 - Others:  
   - Product Position: Aisle, end-cap, or front of store  
-  - Seasonality and Promotion: Whether the product is part of a seasonal collection (seasonal or non-seasonal) and/or currently on promotion (promotional or non-promotional)
+  - Seasonality and Promotion: Whether the product is part of a seasonal collection (seasonal or non-seasonal) and/or on promotion at the time the data was collected (promotional or non-promotional)
 
 ## Summary of Insights
 
