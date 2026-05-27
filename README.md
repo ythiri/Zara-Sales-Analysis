@@ -10,6 +10,8 @@
 View the interactive Tableau dashboard here:  
 [Click to View Dashboard](https://public.tableau.com/app/profile/ythiri/viz/YoonThiriZaraSalesAnalysis/D2Section) 
 
+--- 
+
 ## Data and Dimensions
 
 - Price: The price of each product  
