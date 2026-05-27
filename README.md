@@ -21,9 +21,8 @@ View the interactive Tableau dashboard here:
 - Section: Men’s or women’s  
 - Others:  
   - Product Position: Aisle, end-cap, or front of store  
-  - Seasonality and Promotion: Whether the product is part of a seasonal collection (seasonal or non-seasonal) and/or currently on promotion (promotional or non-promotional)  
+  - Seasonality and Promotion: Whether the product is part of a seasonal collection (seasonal or non-seasonal) and/or currently on promotion (promotional or non-promotional)
 
----
 
 ## Summary of Insights
 
@@ -40,7 +39,6 @@ View the interactive Tableau dashboard here:
   - The highest number of products sold comes from items placed in the aisle, followed by products placed on the end-cap, and then products placed at the front of the store. This trend is also true for men’s products. However, for women’s products, the end-cap position is the most popular, followed by the front of the store and then the aisle.  
   - There is no major noticeable difference between promotional and non-promotional revenue, seasonal and non-seasonal revenue, or the revenue generated from combinations of these categories.  
 
----
 
 ## Recommendations & Next Steps
 
