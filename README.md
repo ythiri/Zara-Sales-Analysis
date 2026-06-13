@@ -1,4 +1,4 @@
-# Tableau Zara Sales Analysis
+# Zara Sales Analysis
 
 ## Dashboard Preview 
 <img width="491" height="395" alt="YoonThiriZaraSalesAnalysisD2" src="https://github.com/user-attachments/assets/f55b6eab-e4fd-4418-a234-c4bff47be374" /> 
