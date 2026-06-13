@@ -1,4 +1,4 @@
-# Tableau Zara Sales Analysis by Yoon Thiri
+# Tableau Zara Sales Analysis
 
 ## Dashboard Preview 
 <img width="491" height="395" alt="YoonThiriZaraSalesAnalysisD2" src="https://github.com/user-attachments/assets/f55b6eab-e4fd-4418-a234-c4bff47be374" /> 
@@ -42,3 +42,7 @@ View the interactive Tableau dashboard here:
 - Consider expanding the women’s section. Research what target consumers in the women’s market value and prefer, then offer more products tailored to those findings.  
 - Utilize aisle space for men’s products and end-cap placements for women’s products to align with observed purchasing trends.  
 - Adjust promotional and seasonal strategies depending on the product type. For example, focus on selling sweaters that are part of a seasonal collection, as these products may not require additional promotions to perform well.
+
+---
+
+Created by Yoon Thiri
